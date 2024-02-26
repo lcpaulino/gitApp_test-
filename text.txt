@@ -1,1 +1,2 @@
 - Adding things to change the status of my file. 
+- Adding some more text to create a merge conflict in order to resolve a very common error that we get from Github.
